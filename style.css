@@ -1,0 +1,14 @@
+*  {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1  {
+    color: blueviolet;
+    font-size: 32px;
+}
+p {
+    color: brown;
+    text-shadow: 3px  3px  3px slateblue;
+    font-size: 23px;
+}
